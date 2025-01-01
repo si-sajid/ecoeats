@@ -304,14 +304,14 @@ section {
    }   
    @media screen and (max-width:499px){
          .gallrey{
-              height: 53vh;
+              height: 50vh;
               width: 50%;
               margin-top: 0;
          }
    }
    @media screen and (max-width:380px){
          .gallrey{
-              height: 40vh;
+              height: 30vh;
               width: 50%;
               margin-top: 0;
          }
